@@ -23,7 +23,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/renat2006/WeatherProjectCUPyhton2
+git clone https://github.com/renat2006/WeatherProjectCUPython2
 cd flaskProject
 ```
 
